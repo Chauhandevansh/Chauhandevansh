@@ -21,8 +21,8 @@ I'm always eager to learn and explore new technologies. Currently, I'm diving de
 
 ## 📫 Get in Touch
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/devansh-chauhan-88ab98222)
-- Email: [Your Email Address](mailto:chauhandevansh04@gmail.com)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/devansh-chauhan-88ab98222)
+- Email: [Email Address](mailto:chauhandevansh04@gmail.com)
 
 
 
