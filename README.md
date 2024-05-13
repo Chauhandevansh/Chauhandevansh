@@ -24,7 +24,7 @@ I'm always eager to learn and explore new technologies. Currently, I'm diving de
 - LinkedIn:[](https://www.linkedin.com/in/devansh-chauhan-88ab98222)
 - Email[](mailto:chauhandevansh04@gmail.com)
 
-- LinkedIn: [LinkedIn Prof](LinkedIn_Link)
+- LinkedIn: [LinkedIn Profile](LinkedIn_Link)
 - Email: [Email Address](mailto:youremail@example.com)
 
 
